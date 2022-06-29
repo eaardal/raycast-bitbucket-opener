@@ -1,0 +1,3 @@
+# BitBucket Opener
+
+Opens BitBucket
