@@ -2,7 +2,7 @@
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "bitbucket-opener",
   "title": "BitBucket Opener",
-  "description": "Opens BitBucket",
+  "description": "Opens BitBucket stuff",
   "icon": "command-icon.png",
   "author": "eaardal",
   "categories": [
