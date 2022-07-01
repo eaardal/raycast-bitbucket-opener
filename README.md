@@ -17,3 +17,17 @@ Shortcuts after organization and repository has been filled in:
 As usual in Raycast, `CMD+Enter` invokes the default action (lower right corner button) and `CMD+K` opens the menu to see all the actions. The _Default action_ dropdown list controls which action is the default action for that button (letting you choose what you want `CMD+Enter` to do by default).
 
 ![](./docs/images/actions.png)
+
+# Installation
+
+This extension is not in the Raycast extension store yet. To try it out you'll have to build it and import it locally:
+
+- `git clone https://github.com/eaardal/raycast-bitbucket-opener.git`
+- `cd raycast-bitbucket-opener`
+- `npm run build`
+
+Open Raycast (`CMD+Space`)
+
+- `Import Extension` -> Select the `raycast-bitbucket-opener` directory
+
+That should do it. Use the `Open BitBucket Repository` command to invoke the extension.
